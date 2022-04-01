@@ -1,2 +1,1 @@
-# Machine Learning RANDOM TESTS
-Starting with spyder environment; 
+# it's me, studying Machine Learning in a pathetic way...  
